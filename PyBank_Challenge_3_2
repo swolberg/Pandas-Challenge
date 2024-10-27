@@ -3,9 +3,6 @@ import os
 
 #Define file paths
 
-input_file = os.path.join("/Users/sarahrwolberg/Desktop/UPENN Data Science Bootcamp/Module 3/Module 3 Challenge", "budget_data.csv")
-output_file = os.path.join("/Users/sarahrwolberg/Desktop/UPENN Data Science Bootcamp/Module 3/Module 3 Challenge", "budget_data_output.txt")
-
 input_file = os.path.join("Resources", "budget_data.csv")
 output_file = os.path.join("analysis", "budget_data_output.txt")
 
